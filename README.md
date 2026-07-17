@@ -7,7 +7,7 @@ Practice log for coding — problems solved, approach, and complexity analysis. 
 | # | Problem | Topic | Time | Space | Status |
 |---|---------|-------|------|-------|--------|
 | 1 | [Order Batching by Priority](#1-order-batching-by-priority) | Sorting / Stability | O(n log n) | O(n) | ✅ Solved |
-| 2 | [Reconciliation Window](#2-reconciliation-window) | Sliding Window | O(n) target | O(1) target | 🔄 In Progress |
+| 2 | [Reconciliation Window](#2-reconciliation-window) | Sliding Window | O(n) target | O(1) target | ✅ Solved |
 
 ---
 
